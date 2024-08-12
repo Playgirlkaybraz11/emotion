@@ -17,8 +17,8 @@
   "dependencies": {
     "@babel/plugin-transform-react-jsx": "^7.17.12",
     "@babel/runtime": "^7.18.3",
-    "@emotion/babel-plugin": "^11.11.0",
-    "@emotion/babel-plugin-jsx-pragmatic": "^0.2.1"
+    "@emotion/babel-plugin": "^11.0.0",
+    "@emotion/babel-plugin-jsx-pragmatic": "^0.1.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0"
