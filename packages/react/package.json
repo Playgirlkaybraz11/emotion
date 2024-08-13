@@ -71,7 +71,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.18.3",
-    "@emotion/babel-plugin": "^11.11.0",
+    "@emotion/babel-plugin": "^11.0.0",
     "@emotion/cache": "^11.11.0",
     "@emotion/serialize": "^1.1.4",
     "@emotion/use-insertion-effect-with-fallbacks": "^1.0.1",
