@@ -8,16 +8,16 @@
     "run-benchmark": "node run.js"
   },
   "dependencies": {
-    "@babel/core": "^7.18.5",
+    "@babel/core": "^7.23.2",
     "@emotion/babel-plugin": "^11.0.0",
     "babel-plugin-react-native-web": "^0.17.5",
     "d3-scale-chromatic": "^3.0.0",
-    "http-server": "^14.0.0",
-    "parcel": "^2.0.1",
+    "http-server": "^14.1.1",
+    "parcel": "^2.9.3",
     "puppeteer": "^11.0.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
-    "react-native-web": "0.17.5",
+    "react-native-web": "0.18.5",
     "stats-analysis": "^2.0.0"
   },
   "alias": {
