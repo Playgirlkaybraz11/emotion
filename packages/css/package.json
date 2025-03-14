@@ -16,7 +16,7 @@
     "test:typescript": "dtslint types"
   },
   "dependencies": {
-    "@emotion/babel-plugin": "^11.11.0",
+    "@emotion/babel-plugin": "^11.0.0",
     "@emotion/cache": "^11.11.0",
     "@emotion/serialize": "^1.1.2",
     "@emotion/sheet": "^1.2.2",
