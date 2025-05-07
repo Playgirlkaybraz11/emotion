@@ -16,7 +16,7 @@
   "repository": "https://github.com/emotion-js/emotion/tree/main/packages/babel-preset-css-prop",
   "dependencies": {
     "@babel/plugin-transform-react-jsx": "^7.17.12",
-    "@babel/runtime": "^7.18.3",
+    "@babel/runtime": "^7.26.10",
     "@emotion/babel-plugin": "^11.11.0",
     "@emotion/babel-plugin-jsx-pragmatic": "^0.2.1"
   },
