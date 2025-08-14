@@ -227,7 +227,7 @@
     "raf": "^3.4.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
-    "react-native": "^0.63.2",
+    "react-native": "^0.69.12",
     "react-primitives": "^0.8.1",
     "react-test-renderer": "16.8.6",
     "react18": "npm:react@18.0.0-rc.0-next-aa8f2bdbc-20211215",
