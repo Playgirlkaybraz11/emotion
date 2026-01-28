@@ -17,7 +17,7 @@
     "@emotion/hash": "^0.9.1",
     "@emotion/memoize": "^0.8.1",
     "@emotion/unitless": "^0.8.1",
-    "@emotion/utils": "^1.2.1",
+    "@emotion/utils": "^0.0.4",
     "csstype": "^3.0.2"
   },
   "devDependencies": {
